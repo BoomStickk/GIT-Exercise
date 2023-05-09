@@ -3,7 +3,6 @@ public class Main {
 
         System.out.println("Hello world!,HI");
          System.out.print("fixing bug");
-        System.out.println("adding a bug");
 
     }
 }
